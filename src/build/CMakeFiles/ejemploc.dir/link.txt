@@ -1,0 +1,1 @@
+/usr/sbin/c++ CMakeFiles/ejemploc.dir/ejemploc.cc.o -o ejemploc 
